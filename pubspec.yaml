@@ -1,11 +1,11 @@
 name: plaid_flutter
 description: Plaid Link for Flutter. Integrates the native iOS and Android SDKs.
-version: 1.1.6
+version: 1.1.7
 homepage: https://github.com/jorgefspereira/plaid_flutter
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
-  flutter: ">=1.12.0"
+  sdk: '>=2.1.0 <3.0.0'
+  flutter: '>=1.12.0'
 
 dependencies:
   flutter:
@@ -32,7 +32,7 @@ flutter:
         pluginClass: PlaidFlutterPlugin
       ios:
         pluginClass: PlaidFlutterPlugin
-        
+
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg
